@@ -8,6 +8,7 @@ function Node(val, left, right, next) {
 }
 */
 
+
 var connect = function(root) {
     let levels = []
     let traverseLevels = (root, levels, level) => {
