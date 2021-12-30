@@ -24,3 +24,4 @@ int main() {
 	int values[4] = { 1, 4, 5, 7 };
 	cout << knapSack(weights, values, 4, 7);
 }
+
