@@ -22,3 +22,4 @@ int main(){
 	cout << isIdealPermutation(A);
 	return 0;
 }
+
