@@ -34,3 +34,4 @@ int main(){
 	cout << isAlienSorted(str, order);
 	return 0;
 }
+
