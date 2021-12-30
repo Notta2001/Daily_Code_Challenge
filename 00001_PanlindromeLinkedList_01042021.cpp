@@ -53,3 +53,5 @@ int main(){
 	cout << isPalindrome(a);
 	return 0;
 }
+
+
