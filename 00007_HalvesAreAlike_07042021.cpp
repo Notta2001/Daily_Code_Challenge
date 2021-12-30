@@ -24,3 +24,4 @@ int main(){
 	cout << halvesAreaAlike(s);
 	return 0;
 }
+
