@@ -23,3 +23,5 @@ int main(){
 	cout << countBinarySubstrings("10101") << endl;
 	return 0;
 }
+
+// https://leetcode.com/problems/count-binary-substrings/
