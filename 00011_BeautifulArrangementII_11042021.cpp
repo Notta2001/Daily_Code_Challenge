@@ -23,3 +23,5 @@ int main(){
 	constructArray(n,k);
 	return 0;	
 }
+
+// https://leetcode.com/problems/beautiful-arrangement-ii/
