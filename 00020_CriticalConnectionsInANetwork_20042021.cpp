@@ -79,6 +79,7 @@ int main(){
 	return 0;
 }
 
+// https://leetcode.com/problems/critical-connections-in-a-network/
 /*1-1
 100
 20
