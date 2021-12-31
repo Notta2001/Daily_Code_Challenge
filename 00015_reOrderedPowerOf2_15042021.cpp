@@ -36,3 +36,5 @@ int main(){
 	cout << reOrderedPowerOf2(4102) << endl;
 	return 0;
 }
+
+// https://leetcode.com/problems/reordered-power-of-2/
