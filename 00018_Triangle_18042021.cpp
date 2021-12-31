@@ -37,3 +37,5 @@ int main(){
 	cout << minimumTotal(triangle);
 	return 0;	
 }
+
+// https://leetcode.com/problems/triangle/
