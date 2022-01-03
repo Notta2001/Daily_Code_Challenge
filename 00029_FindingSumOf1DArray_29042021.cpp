@@ -27,3 +27,5 @@ int main(){
 	print(res);
 	return 0;
 }
+
+// https://leetcode.com/problems/running-sum-of-1d-array/
