@@ -44,3 +44,5 @@ int main(){
 	cout << findPivotIndex(b);
 	return 1;
 }
+
+// https://leetcode.com/problems/find-pivot-index/
