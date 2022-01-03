@@ -49,3 +49,5 @@ int main(){
 	print(ans);
 	return 0;
 }
+
+// https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
