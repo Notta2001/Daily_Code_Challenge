@@ -27,3 +27,5 @@ public class MaximumPointsYouCanObtainFromCard {
 		System.out.println(maxScore(init2, 4));
 	}
 }
+
+// https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
