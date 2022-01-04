@@ -32,3 +32,5 @@ int main(){
 	cout << minDistance(word1, word2);
 	return 0;
 }
+
+// https://leetcode.com/problems/delete-operation-for-two-strings/
