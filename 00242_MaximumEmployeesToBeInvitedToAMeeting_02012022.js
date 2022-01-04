@@ -51,3 +51,4 @@ const maximumInvitations = (a) => {
     }
     return mx(sum, res)
 } 
+
