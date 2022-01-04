@@ -25,3 +25,5 @@ int main(){
 	cout << myPow(2, -20);
 	return 0;
 }
+
+// https://leetcode.com/problems/powx-n/
