@@ -27,3 +27,5 @@ public class CountPrimes {
 		System.out.println(countPrimes(n2));
 	}
 }
+
+// https://leetcode.com/problems/count-primes/
