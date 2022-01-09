@@ -35,3 +35,5 @@ class AmbiguousCoordinates {
 		}
 	}
 }
+
+// https://leetcode.com/problems/ambiguous-coordinates/
