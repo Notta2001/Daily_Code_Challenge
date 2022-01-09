@@ -69,3 +69,5 @@ public class FlattenBinaryTree {
 		flatten(a1);
 	}
 }
+
+// https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
