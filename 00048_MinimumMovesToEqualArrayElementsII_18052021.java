@@ -39,3 +39,5 @@ public class MinimumMovesToEqualArrayElementsII {
 		System.out.println(minMoves2(arr2));
 	}
 }
+
+// https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
