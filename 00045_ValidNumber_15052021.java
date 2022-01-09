@@ -53,3 +53,5 @@ public class validNumber {
 		System.out.println(isNumber(s4));
 	}
 }
+
+// https://leetcode.com/problems/valid-number/
